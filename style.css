@@ -1,0 +1,21 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+pre#code {
+  white-space: pre;
+  overflow-x: auto;
+  background-color: #292d3e;
+  color: #f8f8f2;
+  font-size: 16px;
+  font-family: 'Fira Code', monospace;
+  line-height: 1.5;
+  overflow-x: auto;
+  padding: 20px;
+  tab-size: 2;
+  word-wrap: break-word;
+}
+
+span {
+  color: #0202c5;
+}
